@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa279ef7-ecb8-4f8f-808e-d1d2a4b8e2f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -140,9 +143,25 @@
       <option name="presentableId" value="Default" />
       <updated>1583751682338</updated>
     </task>
+    <task id="LOCAL-00001" summary="HomeWork">
+      <created>1583864938622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583864938622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="23" width="777" height="777" key="CommitChangelistDialog2" timestamp="1583864938232">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="23" width="777" height="777" key="CommitChangelistDialog2/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1583864938232" />
     <state width="1238" height="254" key="GridCell.Tab.0.bottom" timestamp="1583864601721">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -171,6 +190,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="283" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1583752351059" />
+    <state x="273" y="153" key="Vcs.Push.Dialog.v2" timestamp="1583864945493">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="273" y="153" key="Vcs.Push.Dialog.v2/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1583864945493" />
     <state x="294" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1583790367960">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
